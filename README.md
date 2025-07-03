@@ -88,7 +88,7 @@ vercel
 
 Y
 
-✅ Production: https://react-prueba-tecnica-h2-9e2drlbiv-enzo-braun-s-projects.vercel.app
+✅ Production: Deplyment de versión: https://proyecto-h2v-final.vercel.app
 
 Navegación y Ordenamiento: La tabla soporta paginación y ordenamiento por nombre (A-Z, Z-A, o reset) mediante los controles ubicados sobre ella.
 
