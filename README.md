@@ -56,7 +56,7 @@ Para poner el proyecto en marcha en tu entorno de desarrollo, sigue los siguient
 
 Clonar el Repositorio:
 
-Bash git clone https://github.com/EnzoBraun00/ReactWebPruebaTecnicaH2.git cd ReactWebPruebaTecnicaH2 Instalar Dependencias:
+Bash git clone https:... .git cd ReactWebPruebaTecnicaH2 Instalar Dependencias:
 
 Bash npm install Ejecutar la Aplicación (Modo Desarrollo):
 
